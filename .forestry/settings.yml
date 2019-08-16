@@ -11,6 +11,11 @@ sections:
   label: Songs
   create: all
   match: "*"
+- type: directory
+  path: _paryayas
+  label: Paryāẏa/পর্যায়
+  create: all
+  match: "*"
 - type: jekyll-pages
   label: Pages
   create: all
