@@ -24,3 +24,47 @@ fields:
       format: markdown
   label: Transliteration in English
   description: Transliteration of the bengali text
+- name: paryaya
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: parya-a
+      file: 
+      path: 
+  label: Paryāẏa/পর্যায়
+- name: composed_on
+  type: datetime
+  label: Composed On
+  description: ''
+  config:
+    required: false
+    date_format: DD/MM/YYYY
+    time_format: 
+    display_utc: false
+    export_format: DD/MM/YYYY h:mm A ZZ
+- name: illustration
+  type: file
+  config:
+    maxSize: 250
+  label: Illustration
+- name: translations
+  type: field_group_list
+  fields:
+  - name: translation_text
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Translation
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Translations
