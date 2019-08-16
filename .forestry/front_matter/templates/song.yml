@@ -1,4 +1,26 @@
 ---
 label: song
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+  description: Title of the song
+- name: title_bn
+  type: text
+  config:
+    required: false
+  label: নাম
+  description: Title of the song
+- name: transliteration
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Transliteration in English
+  description: Transliteration of the bengali text
