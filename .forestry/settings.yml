@@ -23,8 +23,9 @@ sections:
   - landing-page
   - page
 - type: document
-  path: _data/information.yml
-  label: Contact Information
+  path: _data/languages.yml
+  label: Languages
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
