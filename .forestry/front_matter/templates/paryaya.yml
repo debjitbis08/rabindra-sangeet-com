@@ -1,4 +1,25 @@
 ---
 label: paryaya
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+- name: title_bn
+  type: text
+  config:
+    required: false
+  label: নাম
+  description: Title in bengali
+- name: description
+  type: text
+  config:
+    required: true
+  label: Description
+- name: description_bn
+  type: text
+  config:
+    required: false
+  label: বর্ণনা
