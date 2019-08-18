@@ -16,6 +16,13 @@ sections:
   label: Paryāẏa/পর্যায়
   create: all
   match: "*"
+  templates:
+  - paryaya
+- type: directory
+  path: _talas
+  label: Tāla/তাল
+  create: all
+  match: "*"
 - type: document
   path: _data/languages.yml
   label: Languages
