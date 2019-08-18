@@ -23,6 +23,8 @@ sections:
   label: Tāla/তাল
   create: all
   match: "*"
+  templates:
+  - tala
 - type: document
   path: _data/languages.yml
   label: Languages
