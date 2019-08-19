@@ -12,3 +12,15 @@ fields:
   config:
     required: false
   label: নাম
+- name: paryaya
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: parya-a
+      file: 
+      path: 
+  label: Paryaya
