@@ -15,6 +15,7 @@ transliteration: |-
 composed_on: 30/03/1912 6:30 PM +0000
 illustration: ''
 translations: []
+tala: _talas/dadra.md
 published: false
 
 ---
