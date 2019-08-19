@@ -1,6 +1,6 @@
 ---
-paryaya: []
-upa-paryaya: []
+paryaya: _paryayas/puja.md
+upa-paryaya: _upa-paryaya/poth.md
 title: Amar Ei Poth Chaoatei Anondo
 title_bn: আমার এই পথ-চাওয়াতেই আনন্দ
 transliteration: |-
@@ -12,7 +12,7 @@ transliteration: |-
   śubhakhana haṭhāṯ ēlē takhani pāba dēkhā.
   Tatakhana kṣaṇē kṣaṇē hāsi gā'i āpana-manē,
   tatakhana rahi rahi bhēsē āsē sugandha.
-composed_on: 
+composed_on: 30/03/1912 6:30 PM +0000
 illustration: ''
 translations: []
 published: false
