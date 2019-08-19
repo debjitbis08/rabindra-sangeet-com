@@ -36,6 +36,18 @@ fields:
       file: 
       path: 
   label: Paryāẏa/পর্যায়
+- name: upa-paryaya
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: upa-parya-a
+      file: 
+      path: 
+  label: Upa-paryāẏa
 - name: composed_on
   type: datetime
   label: Composed On
