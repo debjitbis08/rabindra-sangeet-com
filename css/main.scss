@@ -2,9 +2,33 @@
 ---
 
 @import "css/vars.scss";
+@import "css/fa/fontawesome.scss";
+@import "css/fa/solid.scss";
 @import "components/home-hero/home-hero.scss";
+@import "components/featured-songs/featured-songs.scss";
 
 body {
     font-family: 'Montserrat', 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
     font-size: 16px;
+}
+
+.container {
+  width: 100%;
+  padding-right: 12px;
+  padding-left: 12px;
+  margin-right: auto;
+  margin-left: auto;
+
+    @media (min-width: 576px) {
+        max-width: 540px;
+    }
+    @media (min-width: 768px) {
+        max-width: 720px;
+    }
+    @media (min-width: 992px) {
+        max-width: 960px;
+    }
+    @media (min-width: 1200px) {
+        max-width: 1224px;
+    }
 }

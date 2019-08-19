@@ -1,0 +1,83 @@
+.featured-songs {
+    background-size: cover;
+
+    & &__heading {
+        font-family: $serif-font;
+        font-style: italic;
+        font-size: 4.4rem;
+        line-height: .625;
+    }
+
+    & &__list-header {
+        margin-bottom: -1.5rem;
+        display: flex;
+        flex-direction: column;
+        padding: 3.6rem 0 .6rem 0;
+        color: $text-color-dark;
+        font-size: 1.9rem;
+        font-weight: bold;
+
+        p {
+            justify-content: flex-end;
+            display: flex;
+        }
+
+        a {
+            color: $text-color-dark;
+            text-decoration: none;
+        }
+    }
+
+    & &__list {
+        column-count: 2;
+        column-gap: 4.1rem;
+        padding: 0 5rem;
+    }
+
+    & &__song-card {
+        break-inside: avoid;
+        margin: 1.2rem 0;
+        flex-direction: column;
+        background-color: #FFF;
+        border-bottom: 3px solid $primary;
+    }
+
+    & &__song-container {
+        padding: 1.25rem;
+    }
+
+    & &__song-title {
+        font-family: $serif-font;
+        font-style: italic;
+        font-size: 1.65rem;
+        line-height: 2rem;
+    }
+
+    & &__song-body {
+        padding-left: 1rem;
+        max-height: 9rem;
+        position: relative;
+        white-space: pre-wrap;
+        overflow: hidden;
+        font-size: 1.25rem;
+
+        pre {
+            font-family: $serif-font;
+        }
+
+        &--fade::after {
+            content: "";
+            position: absolute;
+            top: 50%;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-image: -webkit-gradient(linear,left top,left bottom,from(hsla(0,0%,100%,0)),to(#fff));
+            background-image: linear-gradient(hsla(0,0%,100%,0),#fff);
+        }
+    }
+
+    & &__song-footer {
+        padding: 2rem 0 0;
+    }
+}
