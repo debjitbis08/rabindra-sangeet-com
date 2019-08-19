@@ -19,6 +19,13 @@ sections:
   templates:
   - paryaya
 - type: directory
+  path: _upa-paryaya
+  label: Upa-paryāẏa/উপ-পর্যায়ে
+  create: all
+  match: "*"
+  templates:
+  - upa-paryaya
+- type: directory
   path: _talas
   label: Tāla/তাল
   create: all
