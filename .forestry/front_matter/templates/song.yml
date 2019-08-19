@@ -48,6 +48,18 @@ fields:
       file: 
       path: 
   label: Upa-paryāẏa
+- name: tala
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: tala
+      file: 
+      path: 
+  label: Tala
 - name: composed_on
   type: datetime
   label: Composed On
@@ -80,17 +92,5 @@ fields:
     max: 
     labelField: 
   label: Translations
-- name: tala
-  type: select
-  default: []
-  config:
-    required: false
-    options: []
-    source:
-      type: pages
-      section: tala
-      file: 
-      path: 
-  label: Tala
 pages:
 - _songs/amar-ei-poth-chaoatei-anondo.md
