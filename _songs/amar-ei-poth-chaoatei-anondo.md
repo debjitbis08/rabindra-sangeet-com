@@ -7,7 +7,7 @@ transliteration: |-
   Āmāra ē'i patha-cā'ōẏātē'i ānanda.
   Khēlē yāẏa raudra chāẏā, barṣā āsē basanta.
   Kārā ē'i samukha diẏē āsē yāẏa khabara niẏē,
-  khuśi ra'i āpana manē.. Bātāsa bahē sumanda.
+  khuśi ra'i āpana manē- Bātāsa bahē sumanda.
   Sārādina ām̐khi mēlē duẏārē raba ēkā,
   śubhakhana haṭhāṯ ēlē takhani pāba dēkhā.
   Tatakhana kṣaṇē kṣaṇē hāsi gā'i āpana-manē,
@@ -18,3 +18,11 @@ translations: []
 published: false
 
 ---
+আমার এই পথ-চাওয়াতেই আনন্দ।  
+ খেলে যায় রৌদ্র ছায়া, বর্ষা আসে বসন্ত॥  
+ কারা এই সমুখ দিয়ে আসে যায় খবর নিয়ে,  
+ খুশি রই আপন মনে- বাতাস বহে সুমন্দ॥  
+ সারাদিন আঁখি মেলে দুয়ারে রব একা,  
+ শুভখন হঠাৎ এলে তখনি পাব দেখা।  
+ ততখন ক্ষণে ক্ষণে হাসি গাই আপন-মনে,  
+ ততখন রহি রহি ভেসে আসে সুগন্ধ॥
