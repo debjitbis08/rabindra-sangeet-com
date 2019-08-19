@@ -1,0 +1,5 @@
+{% include components/head/head.html %}
+{% for section in page.page_sections %}
+{% include components/{{ section.block }}/{{ section.block }}.html %}
+{% endfor %}
+{% include components/footer/footer.html %}

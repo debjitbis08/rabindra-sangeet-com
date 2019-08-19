@@ -1,0 +1,39 @@
+.home-hero {
+    color: #FFF;
+
+    & &__container {
+        margin: 0 auto;
+        position: relative;
+
+        @media (min-width: 1200px) {
+            max-width: 1224px;
+        }
+
+        @media (min-width: 992px) {
+            max-width: 960px;
+        }
+    }
+
+    & &__logo-container {
+        font-size: 3rem;
+        font-weight: bold;
+        display: none;
+    }
+
+    & &__quote {
+        font-size: 2.3rem;
+        font-family: 'Cormorant', Georgia, 'Times New Roman', serif;
+        font-style: italic;
+        font-weight: 200;
+        quotes: "\201C" "\201D" "\2018" "\2019";
+        line-height: 2.4rem;
+
+        &::before {
+            content: open-quote;
+        }
+
+        &::after {
+            content: close-quote;
+        }
+    }
+}
