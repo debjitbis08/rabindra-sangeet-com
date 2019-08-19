@@ -14,7 +14,6 @@ transliteration: Ākāśabharā sūrya-tārā, biśbabharā prāṇa, tāhāri m
 composed_on: 
 illustration: ''
 translations: []
-published: false
 
 ---
 আকাশভরা সূর্য-তারা, বিশ্বভরা প্রাণ,
