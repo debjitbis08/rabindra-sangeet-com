@@ -14,9 +14,8 @@ defaults:
     values:
       layout: post
 collections:
-  people:
+  songs:
     output: true
-    permalink: "/about/:path/"
   posts:
     output: true
   projects:

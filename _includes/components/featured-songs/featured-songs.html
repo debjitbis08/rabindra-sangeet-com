@@ -1,0 +1,27 @@
+<section class="featured-songs">
+    <div class="featured-songs__container">
+        <h2 class="featured-songs__heading">Songs</h2>
+        <div class="featured-songs__list">
+            <header>
+                <p>
+                    <a href="/songs">2000 songs</a>
+                </p>
+            </header>
+            {% for song in site.songs %}
+            <article class="featured-songs__song-card">
+                <div class="featured_songs__song-container">
+                    <div class="featured_songs__song-title">
+                        {{ song.title }}
+                    </div>
+                    <div class="featured_songs__song-body">
+                        {{ song.transliteration }}
+                    </div>
+                    <div class="featured_songs__song-footer">
+                        {{ song.composed_on }}
+                    </div>
+                </div>
+            </article>
+            {% endfor %}
+        </div>
+    </div>
+</section>

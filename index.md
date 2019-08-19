@@ -10,4 +10,6 @@ page_sections:
     In the depth of the known have felt<br/>
     The truth that exceeds all knowledge<br/>
     Which fills my heart with wonder and I sing.
+- template: featured-songs
+  block: featured-songs
 ---
