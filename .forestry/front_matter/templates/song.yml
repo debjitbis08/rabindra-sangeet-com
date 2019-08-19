@@ -80,3 +80,5 @@ fields:
     max: 
     labelField: 
   label: Translations
+pages:
+- _songs/amar-ei-poth-chaoatei-anondo.md
