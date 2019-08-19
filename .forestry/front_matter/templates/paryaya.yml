@@ -12,3 +12,5 @@ fields:
   config:
     required: false
   label: নাম
+pages:
+- _paryayas/puja.md
