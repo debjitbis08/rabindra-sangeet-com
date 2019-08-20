@@ -5,21 +5,14 @@ title: Amar Ei Poth Chaoatei Anondo
 title_bn: আমার এই পথ-চাওয়াতেই আনন্দ
 transliteration: |-
   Āmāra ē'i patha-cā'ōẏātē'i ānanda.
-
   Khēlē yāẏa raudra chāẏā, barṣā āsē basanta.
-
   Kārā ē'isamukha diẏē āsē yāẏa khabara niẏē,
-
   khuśi ra'i āpana manē- Bātāsa bahē sumanda.
-
   Sārādina ām̐khi mēlē duẏārē raba ēkā,
-
   śubhakhana haṭhāṯ ēlē takhani pāba dēkhā.
-
   Tatakhana kṣaṇē kṣaṇē hāsi gā'i āpana-manē,
-
   tatakhana rahi rahi bhēsē āsē sugandha.
-composed_on: 30/03/1912 6:30 PM +0000
+composed_on: 30/03/1912
 illustration: ''
 translations: []
 tala: _talas/dadra.md

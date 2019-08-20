@@ -4,14 +4,21 @@ upa-paryaya: []
 tala: _talas/dadra.md
 title: Akash bhora surjo tara
 title_bn: আকাশভরা সূর্য-তারা
-transliteration: Ākāśabharā sūrya-tārā, biśbabharā prāṇa, tāhāri mājhakhānē āmi pēẏēchi
-  mōra sthāna, bismaẏē tā'i jāgē āmāra gāna. Asīma kālēra yē hillōlē jōẏāra-bhām̐ṭāẏa
-  bhubana dōlē nāṛītē mōra raktadhārāẏa lēgēchē tāra ṭāna, bismaẏē tā'i jāgē āmāra
-  gāna. Ghāsē ghāsē pā phēlēchi banēra pathē yētē, phulēra gandhē camaka lēgē uṭhēchē
-  mana mētē, chaṛiẏē āchē ānandēra'i dāna, bismaẏē tā'i jāgē āmāra gāna. Kāna pētēchi,
-  cōkha mēlēchi, dharāra bukē prāṇa ḍhēlēchi, jānāra mājhē ajānārē karēchi sandhāna,
+transliteration: |-
+  Ākāśabharā sūrya-tārā, biśbabharā prāṇa,
+  tāhāri mājhakhānē āmi pēẏēchi mōra sthāna,
   bismaẏē tā'i jāgē āmāra gāna.
-composed_on: 
+  Asīma kālēra yē hillōlē        jōẏāra-bhām̐ṭāẏa bhubana dōlē
+  nāṛītē mōra raktadhārāẏa lēgēchē tāra ṭāna,
+  bismaẏē tā'i jāgē āmāra gāna.
+  Ghāsē ghāsē pā phēlēchi banēra pathē yētē,
+  phulēra gandhē camaka lēgē uṭhēchē mana mētē,
+  chaṛiẏē āchē ānandēra'i dāna,
+  bismaẏē tā'i jāgē āmāra gāna.
+  Kāna pētēchi, cōkha mēlēchi,   dharāra bukē prāṇa ḍhēlēchi,
+  jānāra mājhē ajānārē karēchi sandhāna,
+  bismaẏē tā'i jāgē āmāra gāna.
+composed_on: 01/01/1924
 illustration: ''
 translations: []
 

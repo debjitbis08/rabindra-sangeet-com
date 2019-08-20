@@ -1,4 +1,4 @@
-<section class="featured-songs" style="background-image: linear-gradient(to right, rgba(255, 255, 255,0.3) 0%, rgba(255, 255, 255, 0.3) 100%), url('{{ "/img/rabindranath-landscape-2.jpg" | absolute_url }}')">
+<section class="featured-songs">
     <div class="featured-songs__container container">
         <h2 class="featured-songs__heading">Songs</h2>
         <div class="featured-songs__list">
@@ -16,7 +16,7 @@
                         </div>
                         <div class="featured-songs__song-body featured-songs__song-body--fade"><pre>{{ song.transliteration }}</pre></div>
                         <div class="featured-songs__song-footer">
-                            {{ song.composed_on }}
+                            {{ song.composed_on | date: "%Y" }}
                         </div>
                     </div>
                 </article>

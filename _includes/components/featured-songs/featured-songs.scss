@@ -1,11 +1,20 @@
 .featured-songs {
     background-size: cover;
+    padding: 5rem 0;
+    // background: rgb(205,206,207);
+    // background: linear-gradient(45deg, rgba(205,206,207,1) 0%, rgba(166,168,169,1) 100%);
+    background-color: $background-light;
+    background-position: 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
 
     & &__heading {
         font-family: $serif-font;
         font-style: italic;
         font-size: 4.4rem;
         line-height: .625;
+        margin: 0;
+        color: $text-color-dark;
     }
 
     & &__list-header {
